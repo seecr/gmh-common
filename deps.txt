@@ -1,0 +1,4 @@
+python3-mysql-connector-python (>= 9.3.0)
+python3-mysql-connector-python (<< 9.4)
+python3-pytest (>= 7.2.1)
+python3-pytest (<< 7.3)
